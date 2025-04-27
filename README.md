@@ -29,13 +29,14 @@ Users should be able to:
 Desktop:
 ![](dd.png)
 
+
+
 Mobile:
 ![](md.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social links]([https://your-solution-url.com](https://karannn3011.github.io/social-links-frontendmentor/))
 
 ## My process
 
